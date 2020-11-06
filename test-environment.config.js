@@ -9,7 +9,7 @@ module.exports = {
     type: "truffle",
   },
 
-  setupProvider: (baseProvider) => {
+  setupProvider: baseProvider => {
     const { accounts } = require("@openzeppelin/test-environment");
 
     return new GSNDevProvider(baseProvider, {

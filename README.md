@@ -2,15 +2,10 @@
 
 ## Overview
 
-
 ## Usage
-
 
 ## Documentation
 
-
-## License 
+## License
 
 SSPL-1.0
-
-
