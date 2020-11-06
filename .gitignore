@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+coverage
+coverage.json
+*.log
+*-debug.js
+*.tgz
+*.tar.gz
+*.coverage
+
